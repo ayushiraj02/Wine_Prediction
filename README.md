@@ -1,4 +1,4 @@
-# Wine_Prediction
+# Wine_Quality_Prediction
 In this project, we can create both classification and regression models for this project using python. 
 You can select the model of your choice based on the evaluation metrics that the contest proposes. In the case of an accuracy 
 metrics, you can create a classification model. And in the case of an error metrics, you can create a regression model.
